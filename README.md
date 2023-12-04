@@ -3,6 +3,7 @@ Solves a version of the vehicle routing problem using Clarke-Wright savings (wit
 
 ### Requirements:
   Python 3
+  
   numpy
 
   To install required Python libraries, run:
